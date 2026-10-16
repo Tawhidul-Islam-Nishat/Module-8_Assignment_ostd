@@ -1,3 +1,17 @@
-Git Practice Project
-Tawhidul Islam Nishat
-This project is a simple Python program that prints my name and today's date, and later includes basic calculator functions.
+# Git Practice Project
+
+**Author:** Tawhidul Islam Nishat
+
+## What this project does
+- Prints my name
+- Prints today's date
+- Provides basic calculator functions
+
+## How to run
+```bash
+python src/main.py
+```
+
+## Folder Structure
+- `src/` - source code (`main.py`, `utils.py`)
+- `docs/` - project documentation
